@@ -1,0 +1,31 @@
+[
+  {
+    "id": "test",
+    "name": "Test",
+    "company": "Sitsa",
+    "companyLogoPath": "file:///C:/Users/fdiaz/AppData/Roaming/Grid Maker/grids/test/company-logo.png",
+    "packs": [
+      {
+        "id": "a83d1a39-a07e-4045-a0a4-e4d98831093c",
+        "subtitle": "",
+        "channels": [
+          {
+            "channelId": "hghjcvvsd",
+            "number": "22"
+          },
+          {
+            "channelId": "aaa",
+            "number": "22.5"
+          },
+          {
+            "channelId": "test2",
+            "number": "666"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-06-25T13:22:34.550Z",
+    "source": "remote"
+  }
+]
