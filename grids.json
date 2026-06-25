@@ -26,5 +26,34 @@
     "createdAt": "",
     "updatedAt": "2026-06-25T13:22:34.550Z",
     "source": "remote"
+  },
+  {
+    "id": "tes222",
+    "name": "tes222",
+    "packs": [
+      {
+        "id": "74f79633-f156-4d3c-b617-a9f2dee0b2f1",
+        "subtitle": "Pack 1",
+        "channels": [
+          {
+            "channelId": "aaa",
+            "number": "22"
+          }
+        ]
+      },
+      {
+        "id": "a406b27e-32ca-49b2-8644-dcb193b8b2c0",
+        "subtitle": "Pack 2",
+        "channels": [
+          {
+            "channelId": "test2",
+            "number": "22"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-06-25T13:51:34.708Z",
+    "source": "remote"
   }
 ]
