@@ -1,7 +1,7 @@
 [
   {
     "id": "test",
-    "name": "test",
+    "name": "testa",
     "packs": [
       {
         "id": "a549c110-68bc-41fa-9861-eb03c1e62ae9",
@@ -19,7 +19,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-29T11:30:11.043Z",
+    "updatedAt": "2026-06-29T11:30:22.811Z",
     "source": "remote"
   },
   {
