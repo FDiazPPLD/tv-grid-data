@@ -6,16 +6,11 @@
       {
         "id": "7ae54eca-c410-48c6-872e-c172c922bced",
         "subtitle": "Pack 1",
-        "channels": [
-          {
-            "channelId": "test",
-            "number": "22"
-          }
-        ]
+        "channels": []
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-29T12:54:44.485Z",
+    "updatedAt": "2026-06-29T12:54:55.621Z",
     "source": "remote"
   }
 ]
