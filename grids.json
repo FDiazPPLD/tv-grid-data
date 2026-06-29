@@ -1,30 +1,25 @@
 [
   {
     "id": "test",
-    "name": "Test",
-    "company": "Sitsa",
+    "name": "test",
     "packs": [
       {
-        "id": "a83d1a39-a07e-4045-a0a4-e4d98831093c",
-        "subtitle": "",
+        "id": "a549c110-68bc-41fa-9861-eb03c1e62ae9",
+        "subtitle": "Pack 1",
         "channels": [
           {
-            "channelId": "hghjcvvsd",
+            "channelId": "test2",
             "number": "22"
           },
           {
-            "channelId": "aaa",
-            "number": "22.5"
-          },
-          {
-            "channelId": "test2",
-            "number": "666"
+            "channelId": "asdasdasdas",
+            "number": "11"
           }
         ]
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-25T13:22:34.550Z",
+    "updatedAt": "2026-06-29T11:30:11.043Z",
     "source": "remote"
   },
   {
