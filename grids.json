@@ -27,24 +27,5 @@
     "createdAt": "",
     "updatedAt": "2026-06-25T13:51:34.708Z",
     "source": "remote"
-  },
-  {
-    "id": "dasasdsadasasdasddsa",
-    "name": "dasasdsadasasdasddsa",
-    "packs": [
-      {
-        "id": "a74d0a35-cecd-4e98-b95b-2bf2f7d4fbff",
-        "subtitle": "Pack 1",
-        "channels": [
-          {
-            "channelId": "asdasdasdas",
-            "number": "22"
-          }
-        ]
-      }
-    ],
-    "createdAt": "",
-    "updatedAt": "2026-06-29T11:31:07.034Z",
-    "source": "remote"
   }
 ]
