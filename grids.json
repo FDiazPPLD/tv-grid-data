@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "sdadsasadasd",
+    "name": "sdadsasadasd",
+    "packs": [
+      {
+        "id": "0fc8f876-b911-4121-a5ce-50e9c8e67397",
+        "subtitle": "Pack 1",
+        "channels": [
+          {
+            "channelId": "asdasda",
+            "number": "22"
+          },
+          {
+            "channelId": "saddadsds",
+            "number": "33"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-06-29T12:56:08.945Z",
+    "source": "remote"
+  }
+]
