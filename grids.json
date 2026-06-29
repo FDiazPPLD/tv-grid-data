@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "test",
+    "name": "test",
+    "packs": [
+      {
+        "id": "7ae54eca-c410-48c6-872e-c172c922bced",
+        "subtitle": "Pack 1",
+        "channels": [
+          {
+            "channelId": "test",
+            "number": "22"
+          },
+          {
+            "channelId": "asdas",
+            "number": "23.77"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-06-29T12:48:44.923Z",
+    "source": "remote"
+  }
+]
