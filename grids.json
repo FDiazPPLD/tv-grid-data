@@ -64,7 +64,8 @@
           },
           {
             "channelId": "canal-26",
-            "number": "24.3"
+            "number": "24.3",
+            "channelName": "Canal 26"
           },
           {
             "channelId": "tv-publica",
@@ -435,7 +436,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:08:29.614Z",
+    "updatedAt": "2026-06-30T18:08:36.774Z",
     "source": "remote"
   }
 ]
