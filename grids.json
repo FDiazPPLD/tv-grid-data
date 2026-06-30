@@ -337,7 +337,8 @@
           },
           {
             "channelId": "tnt-novelas",
-            "number": "40.2"
+            "number": "40.2",
+            "channelName": "TNT Novelas"
           },
           {
             "channelId": "a-e",
@@ -487,7 +488,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:15:30.985Z",
+    "updatedAt": "2026-06-30T18:15:41.265Z",
     "source": "remote"
   }
 ]
