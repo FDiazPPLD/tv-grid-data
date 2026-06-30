@@ -28,7 +28,8 @@
           },
           {
             "channelId": "telefe-cordoba",
-            "number": "22.1"
+            "number": "22.1",
+            "channelName": "Telefe Cordoba"
           },
           {
             "channelId": "el-doce",
@@ -427,7 +428,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:04:29.813Z",
+    "updatedAt": "2026-06-30T18:04:38.752Z",
     "source": "remote"
   }
 ]
