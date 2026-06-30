@@ -372,7 +372,8 @@
           },
           {
             "channelId": "golden-edge",
-            "number": "42.2"
+            "number": "42.2",
+            "channelName": "Golden Edge"
           },
           {
             "channelId": "star-channel",
@@ -494,7 +495,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:16:42.788Z",
+    "updatedAt": "2026-06-30T18:16:50.693Z",
     "source": "remote"
   }
 ]
