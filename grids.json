@@ -89,7 +89,8 @@
           },
           {
             "channelId": "canal-13",
-            "number": "26.1"
+            "number": "26.1",
+            "channelName": "Canal 13"
           },
           {
             "channelId": "ln",
@@ -439,7 +440,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:08:57.422Z",
+    "updatedAt": "2026-06-30T18:09:04.112Z",
     "source": "remote"
   }
 ]
