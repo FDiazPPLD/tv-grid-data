@@ -237,7 +237,8 @@
           },
           {
             "channelId": "nickelodeon-jr",
-            "number": "33.4"
+            "number": "33.4",
+            "channelName": "Nickelodeon Jr"
           },
           {
             "channelId": "bitme",
@@ -467,7 +468,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:12:59.723Z",
+    "updatedAt": "2026-06-30T18:13:06.959Z",
     "source": "remote"
   }
 ]
