@@ -57,8 +57,9 @@
             "number": "24.3"
           },
           {
-            "channelId": "tv-publica",
-            "number": "24.4"
+            "channelId": "tv-pubblica",
+            "number": "24.4",
+            "channelName": "TV Pubblica"
           },
           {
             "channelId": "america",
@@ -424,7 +425,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T17:14:00.934Z",
+    "updatedAt": "2026-06-30T18:03:25.230Z",
     "source": "remote"
   }
 ]
