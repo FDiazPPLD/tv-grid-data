@@ -114,7 +114,8 @@
           },
           {
             "channelId": "canal-rural",
-            "number": "27.1"
+            "number": "27.1",
+            "channelName": "Canal Rural"
           },
           {
             "channelId": "argentinisima-satelital",
@@ -444,7 +445,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:09:37.670Z",
+    "updatedAt": "2026-06-30T18:09:44.925Z",
     "source": "remote"
   }
 ]
