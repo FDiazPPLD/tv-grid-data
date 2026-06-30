@@ -18,8 +18,9 @@
             "channelName": "C20"
           },
           {
-            "channelId": "unitv",
-            "number": "21.2"
+            "channelId": "uniteve",
+            "number": "21.2",
+            "channelName": "UniTEVE"
           },
           {
             "channelId": "telediario",
@@ -428,7 +429,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:04:38.752Z",
+    "updatedAt": "2026-06-30T18:06:17.758Z",
     "source": "remote"
   }
 ]
