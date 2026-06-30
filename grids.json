@@ -149,7 +149,8 @@
           },
           {
             "channelId": "fox-sports-3",
-            "number": "28.3"
+            "number": "28.3",
+            "channelName": "Fox Sports 3"
           },
           {
             "channelId": "espn",
@@ -451,7 +452,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:10:38.078Z",
+    "updatedAt": "2026-06-30T18:10:47.270Z",
     "source": "remote"
   }
 ]
