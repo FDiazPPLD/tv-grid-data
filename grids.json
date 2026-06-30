@@ -4,7 +4,7 @@
     "name": "ISDB-T",
     "headerColor": "#222222",
     "channelBackgroundColor": "#e0e0e0",
-    "pageBackgroundColor": "#ffffff",
+    "pageBackgroundColor": "#ede6e6",
     "separatorColor": "#2e7d32",
     "showChannelNames": false,
     "packs": [
@@ -503,12 +503,17 @@
           {
             "channelId": "canal-luz",
             "number": "51.4"
+          },
+          {
+            "channelId": "canal-7-sde",
+            "channelName": "canal-7-sde",
+            "number": "222222"
           }
         ]
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T19:11:35.342Z",
+    "updatedAt": "2026-06-30T19:28:54.781Z",
     "source": "remote"
   }
 ]
