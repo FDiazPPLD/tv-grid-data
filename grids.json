@@ -277,7 +277,8 @@
           },
           {
             "channelId": "amc-series",
-            "number": "35.3"
+            "number": "35.3",
+            "channelName": "AMC Series"
           },
           {
             "channelId": "e",
@@ -475,7 +476,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:14:00.395Z",
+    "updatedAt": "2026-06-30T18:14:14.029Z",
     "source": "remote"
   }
 ]
