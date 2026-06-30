@@ -257,7 +257,8 @@
           },
           {
             "channelId": "babytv",
-            "number": "34.4"
+            "number": "34.4",
+            "channelName": "BabyTV"
           },
           {
             "channelId": "tlc",
@@ -471,7 +472,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:13:31.785Z",
+    "updatedAt": "2026-06-30T18:13:39.028Z",
     "source": "remote"
   }
 ]
