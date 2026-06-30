@@ -1,1 +1,426 @@
-[]
+[
+  {
+    "id": "isdb-t",
+    "name": "ISDB-T",
+    "headerColor": "#222222",
+    "channelBackgroundColor": "#e0e0e0",
+    "pageBackgroundColor": "#ffffff",
+    "separatorColor": "#2e7d32",
+    "showChannelNames": false,
+    "packs": [
+      {
+        "id": "7a2823af-c337-440f-8555-e22088144336",
+        "subtitle": "",
+        "channels": [
+          {
+            "channelId": "c-20",
+            "number": "21.1"
+          },
+          {
+            "channelId": "unitv",
+            "number": "21.2"
+          },
+          {
+            "channelId": "telediario",
+            "number": "21.3"
+          },
+          {
+            "channelId": "telefe-cordoba",
+            "number": "22.1"
+          },
+          {
+            "channelId": "el-doce",
+            "number": "22.2"
+          },
+          {
+            "channelId": "canal-10",
+            "number": "23.1"
+          },
+          {
+            "channelId": "tn",
+            "number": "23.2"
+          },
+          {
+            "channelId": "a24",
+            "number": "23.3"
+          },
+          {
+            "channelId": "c5n",
+            "number": "24.1"
+          },
+          {
+            "channelId": "cronica",
+            "number": "24.2"
+          },
+          {
+            "channelId": "canal-26",
+            "number": "24.3"
+          },
+          {
+            "channelId": "tv-publica",
+            "number": "24.4"
+          },
+          {
+            "channelId": "america",
+            "number": "25.1"
+          },
+          {
+            "channelId": "el-nueve",
+            "number": "25.2"
+          },
+          {
+            "channelId": "telefe",
+            "number": "25.3"
+          },
+          {
+            "channelId": "canal-13",
+            "number": "26.1"
+          },
+          {
+            "channelId": "ln",
+            "number": "26.2"
+          },
+          {
+            "channelId": "metro",
+            "number": "26.3"
+          },
+          {
+            "channelId": "ciudad-magazine",
+            "number": "26.4"
+          },
+          {
+            "channelId": "encuentro",
+            "number": "26.5"
+          },
+          {
+            "channelId": "canal-rural",
+            "number": "27.1"
+          },
+          {
+            "channelId": "argentinisima-satelital",
+            "number": "27.2"
+          },
+          {
+            "channelId": "deportv",
+            "number": "27.3"
+          },
+          {
+            "channelId": "tyc-sports",
+            "number": "27.4"
+          },
+          {
+            "channelId": "eventos",
+            "number": "27.5"
+          },
+          {
+            "channelId": "fox-sports",
+            "number": "28.1"
+          },
+          {
+            "channelId": "fox-sports-2",
+            "number": "28.2"
+          },
+          {
+            "channelId": "fox-sports-3",
+            "number": "28.3"
+          },
+          {
+            "channelId": "espn",
+            "number": "29.1"
+          },
+          {
+            "channelId": "espn-2",
+            "number": "29.2"
+          },
+          {
+            "channelId": "espn-3",
+            "number": "29.3"
+          },
+          {
+            "channelId": "espn-4",
+            "number": "30.1"
+          },
+          {
+            "channelId": "am-sports",
+            "number": "30.2"
+          },
+          {
+            "channelId": "garage-tv",
+            "number": "30.3"
+          },
+          {
+            "channelId": "d-sports",
+            "number": "30.4"
+          },
+          {
+            "channelId": "d-sports-2",
+            "number": "30.5"
+          },
+          {
+            "channelId": "espn-premium",
+            "number": "31.1"
+          },
+          {
+            "channelId": "tnt-sports",
+            "number": "31.2"
+          },
+          {
+            "channelId": "paka-paka",
+            "number": "32.1"
+          },
+          {
+            "channelId": "disney-channel",
+            "number": "32.2"
+          },
+          {
+            "channelId": "zookids",
+            "number": "32.3"
+          },
+          {
+            "channelId": "disney-jr",
+            "number": "32.4"
+          },
+          {
+            "channelId": "cartoon-network",
+            "number": "33.1"
+          },
+          {
+            "channelId": "discovery-kids",
+            "number": "33.2"
+          },
+          {
+            "channelId": "nickelodeon",
+            "number": "33.3"
+          },
+          {
+            "channelId": "nickelodeon-jr",
+            "number": "33.4"
+          },
+          {
+            "channelId": "bitme",
+            "number": "34.1"
+          },
+          {
+            "channelId": "cartoonito",
+            "number": "34.2"
+          },
+          {
+            "channelId": "tooncast",
+            "number": "34.3"
+          },
+          {
+            "channelId": "babytv",
+            "number": "34.4"
+          },
+          {
+            "channelId": "tlc",
+            "number": "34.5"
+          },
+          {
+            "channelId": "h-h",
+            "number": "35.1"
+          },
+          {
+            "channelId": "el-gourmet",
+            "number": "35.2"
+          },
+          {
+            "channelId": "amc-series",
+            "number": "35.3"
+          },
+          {
+            "channelId": "e",
+            "number": "36.1"
+          },
+          {
+            "channelId": "history",
+            "number": "36.2"
+          },
+          {
+            "channelId": "animal-planet",
+            "number": "36.3"
+          },
+          {
+            "channelId": "discovery",
+            "number": "38.1"
+          },
+          {
+            "channelId": "history-2",
+            "number": "38.2"
+          },
+          {
+            "channelId": "national-geographic",
+            "number": "38.3"
+          },
+          {
+            "channelId": "id",
+            "number": "38.1"
+          },
+          {
+            "channelId": "volver",
+            "number": "39.2"
+          },
+          {
+            "channelId": "cinear",
+            "number": "39.3"
+          },
+          {
+            "channelId": "tcm",
+            "number": "39.4"
+          },
+          {
+            "channelId": "amc",
+            "number": "40.1"
+          },
+          {
+            "channelId": "tnt-novelas",
+            "number": "40.2"
+          },
+          {
+            "channelId": "a-e",
+            "number": "40.3"
+          },
+          {
+            "channelId": "canal-a",
+            "number": "41.1"
+          },
+          {
+            "channelId": "film-arts",
+            "number": "41.2"
+          },
+          {
+            "channelId": "europa-europa",
+            "number": "41.3"
+          },
+          {
+            "channelId": "sony-movies",
+            "number": "41.4"
+          },
+          {
+            "channelId": "cinemax",
+            "number": "42.1"
+          },
+          {
+            "channelId": "golden-edge",
+            "number": "42.2"
+          },
+          {
+            "channelId": "star-channel",
+            "number": "42.3"
+          },
+          {
+            "channelId": "cinecanal",
+            "number": "43.1"
+          },
+          {
+            "channelId": "fx",
+            "number": "43.3"
+          },
+          {
+            "channelId": "studio-universal",
+            "number": "44.1"
+          },
+          {
+            "channelId": "universal-channel",
+            "number": "44.2"
+          },
+          {
+            "channelId": "golden",
+            "number": "44.3"
+          },
+          {
+            "channelId": "tnt",
+            "number": "45.1"
+          },
+          {
+            "channelId": "tnt-series",
+            "number": "45.2"
+          },
+          {
+            "channelId": "axn",
+            "number": "45.3"
+          },
+          {
+            "channelId": "sony-channel",
+            "number": "46.1"
+          },
+          {
+            "channelId": "warner-bros",
+            "number": "46.2"
+          },
+          {
+            "channelId": "telemundo",
+            "number": "46.3"
+          },
+          {
+            "channelId": "comedy-central",
+            "number": "47.1"
+          },
+          {
+            "channelId": "adult-swim",
+            "number": "47.2"
+          },
+          {
+            "channelId": "las-estrellas",
+            "number": "47.3"
+          },
+          {
+            "channelId": "tlnovelas",
+            "number": "48.1"
+          },
+          {
+            "channelId": "cm",
+            "number": "48.2"
+          },
+          {
+            "channelId": "htv",
+            "number": "48.4"
+          },
+          {
+            "channelId": "quiero",
+            "number": "49.1"
+          },
+          {
+            "channelId": "mtv",
+            "number": "49.2"
+          },
+          {
+            "channelId": "telesur",
+            "number": "49.3"
+          },
+          {
+            "channelId": "rt",
+            "number": "50.1"
+          },
+          {
+            "channelId": "cnn-espanol",
+            "number": "50.2"
+          },
+          {
+            "channelId": "tve",
+            "number": "50.3"
+          },
+          {
+            "channelId": "rai-italia",
+            "number": "51.1"
+          },
+          {
+            "channelId": "ewtn",
+            "number": "51.2"
+          },
+          {
+            "channelId": "orbe-21",
+            "number": "51.3"
+          },
+          {
+            "channelId": "canal-luz",
+            "number": "51.4"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-06-30T16:30:48.314Z",
+    "source": "remote"
+  }
+]
