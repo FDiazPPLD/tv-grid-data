@@ -411,7 +411,8 @@
           },
           {
             "channelId": "tnt",
-            "number": "45.1"
+            "number": "45.1",
+            "channelName": "TNT"
           },
           {
             "channelId": "tnt-series",
@@ -501,7 +502,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:17:30.971Z",
+    "updatedAt": "2026-06-30T18:17:37.000Z",
     "source": "remote"
   }
 ]
