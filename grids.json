@@ -183,8 +183,9 @@
             "channelName": "Garage TV"
           },
           {
-            "channelId": "d-sports",
-            "number": "30.4"
+            "channelId": "dsports",
+            "number": "30.4",
+            "channelName": "DSports"
           },
           {
             "channelId": "d-sports-2",
@@ -458,7 +459,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:11:39.110Z",
+    "updatedAt": "2026-06-30T18:11:53.005Z",
     "source": "remote"
   }
 ]
