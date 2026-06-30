@@ -327,7 +327,8 @@
           },
           {
             "channelId": "tcm",
-            "number": "39.4"
+            "number": "39.4",
+            "channelName": "TCM"
           },
           {
             "channelId": "amc",
@@ -485,7 +486,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:15:19.763Z",
+    "updatedAt": "2026-06-30T18:15:25.445Z",
     "source": "remote"
   }
 ]
