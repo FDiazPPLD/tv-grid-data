@@ -311,7 +311,8 @@
           },
           {
             "channelId": "national-geographic",
-            "number": "38.3"
+            "number": "38.3",
+            "channelName": "National Geographic"
           },
           {
             "channelId": "volver",
@@ -481,7 +482,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:14:49.448Z",
+    "updatedAt": "2026-06-30T18:14:59.134Z",
     "source": "remote"
   }
 ]
