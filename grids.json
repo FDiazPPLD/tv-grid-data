@@ -382,7 +382,8 @@
           },
           {
             "channelId": "cinecanal",
-            "number": "43.1"
+            "number": "43.1",
+            "channelName": "Cinecanal"
           },
           {
             "channelId": "space",
@@ -496,7 +497,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:16:57.843Z",
+    "updatedAt": "2026-06-30T18:17:03.188Z",
     "source": "remote"
   }
 ]
