@@ -352,7 +352,8 @@
           },
           {
             "channelId": "film-arts",
-            "number": "41.2"
+            "number": "41.2",
+            "channelName": "film&arts"
           },
           {
             "channelId": "europa-europa",
@@ -490,7 +491,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:15:59.628Z",
+    "updatedAt": "2026-06-30T18:16:23.837Z",
     "source": "remote"
   }
 ]
