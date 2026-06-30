@@ -421,7 +421,8 @@
           },
           {
             "channelId": "axn",
-            "number": "45.3"
+            "number": "45.3",
+            "channelName": "AXN"
           },
           {
             "channelId": "sony-channel",
@@ -503,7 +504,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:17:45.141Z",
+    "updatedAt": "2026-06-30T18:17:50.655Z",
     "source": "remote"
   }
 ]
