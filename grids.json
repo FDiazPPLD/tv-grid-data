@@ -406,7 +406,8 @@
           },
           {
             "channelId": "golden",
-            "number": "44.3"
+            "number": "44.3",
+            "channelName": "Golden"
           },
           {
             "channelId": "tnt",
@@ -500,7 +501,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:17:24.450Z",
+    "updatedAt": "2026-06-30T18:17:30.971Z",
     "source": "remote"
   }
 ]
