@@ -134,7 +134,8 @@
           },
           {
             "channelId": "eventos",
-            "number": "27.5"
+            "number": "27.5",
+            "channelName": "Eventos"
           },
           {
             "channelId": "fox-sports",
@@ -448,7 +449,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:10:12.731Z",
+    "updatedAt": "2026-06-30T18:10:18.993Z",
     "source": "remote"
   }
 ]
