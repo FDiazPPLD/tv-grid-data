@@ -74,7 +74,8 @@
           },
           {
             "channelId": "america",
-            "number": "25.1"
+            "number": "25.1",
+            "channelName": "America"
           },
           {
             "channelId": "el-nueve",
@@ -436,7 +437,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:08:36.774Z",
+    "updatedAt": "2026-06-30T18:08:43.573Z",
     "source": "remote"
   }
 ]
