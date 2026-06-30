@@ -99,7 +99,8 @@
           },
           {
             "channelId": "metro",
-            "number": "26.3"
+            "number": "26.3",
+            "channelName": "Metro"
           },
           {
             "channelId": "ciudad-magazine",
@@ -441,7 +442,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:09:11.136Z",
+    "updatedAt": "2026-06-30T18:09:22.630Z",
     "source": "remote"
   }
 ]
