@@ -169,7 +169,8 @@
           },
           {
             "channelId": "espn-4",
-            "number": "30.1"
+            "number": "30.1",
+            "channelName": "Espn 4"
           },
           {
             "channelId": "am-sports",
@@ -455,7 +456,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:11:07.692Z",
+    "updatedAt": "2026-06-30T18:11:13.917Z",
     "source": "remote"
   }
 ]
