@@ -84,7 +84,8 @@
           },
           {
             "channelId": "telefe",
-            "number": "25.3"
+            "number": "25.3",
+            "channelName": "Telefe"
           },
           {
             "channelId": "canal-13",
@@ -438,7 +439,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:08:50.478Z",
+    "updatedAt": "2026-06-30T18:08:57.422Z",
     "source": "remote"
   }
 ]
