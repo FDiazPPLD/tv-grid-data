@@ -109,7 +109,8 @@
           },
           {
             "channelId": "encuentro",
-            "number": "26.5"
+            "number": "26.5",
+            "channelName": "Encuentro"
           },
           {
             "channelId": "canal-rural",
@@ -443,7 +444,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:09:30.520Z",
+    "updatedAt": "2026-06-30T18:09:37.670Z",
     "source": "remote"
   }
 ]
