@@ -34,7 +34,8 @@
           },
           {
             "channelId": "el-doce",
-            "number": "22.2"
+            "number": "22.2",
+            "channelName": "El Doce"
           },
           {
             "channelId": "canal-10",
@@ -429,7 +430,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:06:17.758Z",
+    "updatedAt": "2026-06-30T18:07:11.894Z",
     "source": "remote"
   }
 ]
