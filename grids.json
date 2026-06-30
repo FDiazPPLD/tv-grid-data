@@ -119,7 +119,8 @@
           },
           {
             "channelId": "argentinisima-satelital",
-            "number": "27.2"
+            "number": "27.2",
+            "channelName": "Argentinisima Satelital"
           },
           {
             "channelId": "deportv",
@@ -445,7 +446,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:09:44.925Z",
+    "updatedAt": "2026-06-30T18:09:55.080Z",
     "source": "remote"
   }
 ]
