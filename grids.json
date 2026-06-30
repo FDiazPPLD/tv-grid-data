@@ -179,7 +179,8 @@
           },
           {
             "channelId": "garage-tv",
-            "number": "30.3"
+            "number": "30.3",
+            "channelName": "Garage TV"
           },
           {
             "channelId": "d-sports",
@@ -457,7 +458,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:11:30.910Z",
+    "updatedAt": "2026-06-30T18:11:39.110Z",
     "source": "remote"
   }
 ]
