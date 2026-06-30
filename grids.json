@@ -342,7 +342,8 @@
           },
           {
             "channelId": "a-e",
-            "number": "40.3"
+            "number": "40.3",
+            "channelName": "A&E"
           },
           {
             "channelId": "canal-a",
@@ -488,7 +489,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:15:41.265Z",
+    "updatedAt": "2026-06-30T18:15:49.539Z",
     "source": "remote"
   }
 ]
