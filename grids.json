@@ -292,7 +292,8 @@
           },
           {
             "channelId": "animal-planet",
-            "number": "36.3"
+            "number": "36.3",
+            "channelName": "Animal Planet"
           },
           {
             "channelId": "id",
@@ -478,7 +479,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:14:26.612Z",
+    "updatedAt": "2026-06-30T18:14:35.405Z",
     "source": "remote"
   }
 ]
