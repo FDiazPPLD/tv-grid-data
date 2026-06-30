@@ -252,7 +252,8 @@
           },
           {
             "channelId": "tooncast",
-            "number": "34.3"
+            "number": "34.3",
+            "channelName": "Tooncast"
           },
           {
             "channelId": "babytv",
@@ -470,7 +471,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:13:26.573Z",
+    "updatedAt": "2026-06-30T18:13:31.785Z",
     "source": "remote"
   }
 ]
