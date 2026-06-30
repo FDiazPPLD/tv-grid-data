@@ -13,8 +13,9 @@
         "subtitle": "",
         "channels": [
           {
-            "channelId": "c-20",
-            "number": "21.1"
+            "channelId": "c20",
+            "number": "21.1",
+            "channelName": "C20"
           },
           {
             "channelId": "unitv",
@@ -425,7 +426,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:04:02.180Z",
+    "updatedAt": "2026-06-30T18:04:16.924Z",
     "source": "remote"
   }
 ]
