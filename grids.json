@@ -357,7 +357,8 @@
           },
           {
             "channelId": "europa-europa",
-            "number": "41.3"
+            "number": "41.3",
+            "channelName": "Europa Europa"
           },
           {
             "channelId": "sony-movies",
@@ -491,7 +492,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:16:23.837Z",
+    "updatedAt": "2026-06-30T18:16:30.616Z",
     "source": "remote"
   }
 ]
