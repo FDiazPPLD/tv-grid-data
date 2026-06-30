@@ -11,16 +11,11 @@
       {
         "id": "fddb637c-99c9-4931-86cb-ed56da89805f",
         "subtitle": "Pack 1",
-        "channels": [
-          {
-            "channelId": "sdfdsffds",
-            "number": "22"
-          }
-        ]
+        "channels": []
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T13:00:08.248Z",
+    "updatedAt": "2026-06-30T13:00:23.298Z",
     "source": "remote"
   }
 ]
