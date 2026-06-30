@@ -129,7 +129,8 @@
           },
           {
             "channelId": "tyc-sports",
-            "number": "27.4"
+            "number": "27.4",
+            "channelName": "TyC Sports"
           },
           {
             "channelId": "eventos",
@@ -447,7 +448,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:10:05.062Z",
+    "updatedAt": "2026-06-30T18:10:12.731Z",
     "source": "remote"
   }
 ]
