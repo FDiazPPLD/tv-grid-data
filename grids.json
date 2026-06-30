@@ -441,7 +441,8 @@
           },
           {
             "channelId": "comedy-central",
-            "number": "47.1"
+            "number": "47.1",
+            "channelName": "Comedy Central"
           },
           {
             "channelId": "adult-swim",
@@ -507,7 +508,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:18:25.199Z",
+    "updatedAt": "2026-06-30T18:18:47.829Z",
     "source": "remote"
   }
 ]
