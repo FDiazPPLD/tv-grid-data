@@ -241,6 +241,10 @@
             "number": "36.3"
           },
           {
+            "channelId": "id",
+            "number": "38.1"
+          },
+          {
             "channelId": "discovery",
             "number": "38.1"
           },
@@ -251,10 +255,6 @@
           {
             "channelId": "national-geographic",
             "number": "38.3"
-          },
-          {
-            "channelId": "id",
-            "number": "38.1"
           },
           {
             "channelId": "volver",
@@ -311,6 +311,10 @@
           {
             "channelId": "cinecanal",
             "number": "43.1"
+          },
+          {
+            "channelId": "space",
+            "number": "43.2"
           },
           {
             "channelId": "fx",
@@ -420,7 +424,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T16:30:48.314Z",
+    "updatedAt": "2026-06-30T16:32:27.143Z",
     "source": "remote"
   }
 ]
