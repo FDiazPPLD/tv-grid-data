@@ -23,7 +23,8 @@
           },
           {
             "channelId": "telediario",
-            "number": "21.3"
+            "number": "21.3",
+            "channelName": "Telediario"
           },
           {
             "channelId": "telefe-cordoba",
@@ -426,7 +427,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:04:16.924Z",
+    "updatedAt": "2026-06-30T18:04:29.813Z",
     "source": "remote"
   }
 ]
