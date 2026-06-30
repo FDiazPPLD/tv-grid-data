@@ -262,7 +262,8 @@
           },
           {
             "channelId": "tlc",
-            "number": "34.5"
+            "number": "34.5",
+            "channelName": "TLC"
           },
           {
             "channelId": "h-h",
@@ -472,7 +473,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:13:39.028Z",
+    "updatedAt": "2026-06-30T18:13:45.165Z",
     "source": "remote"
   }
 ]
