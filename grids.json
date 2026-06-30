@@ -188,8 +188,9 @@
             "channelName": "DSports"
           },
           {
-            "channelId": "d-sports-2",
-            "number": "30.5"
+            "channelId": "dsports-2",
+            "number": "30.5",
+            "channelName": "DSports 2"
           },
           {
             "channelId": "espn-premium",
@@ -459,7 +460,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:11:53.005Z",
+    "updatedAt": "2026-06-30T18:12:10.593Z",
     "source": "remote"
   }
 ]
