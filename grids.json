@@ -212,7 +212,8 @@
           },
           {
             "channelId": "zookids",
-            "number": "32.3"
+            "number": "32.3",
+            "channelName": "Zookids"
           },
           {
             "channelId": "disney-jr",
@@ -462,7 +463,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:12:24.754Z",
+    "updatedAt": "2026-06-30T18:12:30.942Z",
     "source": "remote"
   }
 ]
