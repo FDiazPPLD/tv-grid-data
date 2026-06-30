@@ -513,7 +513,32 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T19:30:04.832Z",
+    "updatedAt": "2026-06-30T19:30:08.192Z",
+    "source": "remote"
+  },
+  {
+    "id": "b9293660-9ee7-4774-b2a7-4209a7d0d2e1",
+    "name": "adsdsdsa",
+    "headerColor": "#222222",
+    "channelBackgroundColor": "#e0e0e0",
+    "pageBackgroundColor": "#ffffff",
+    "separatorColor": "#2e7d32",
+    "showChannelNames": false,
+    "packs": [
+      {
+        "id": "55bc880a-896c-4c48-a570-4d79a5f27456",
+        "subtitle": "Pack 1",
+        "channels": [
+          {
+            "channelId": "2b181ce0-9769-4ff1-91b3-6a801408505c",
+            "channelName": "Alando222",
+            "number": "22"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-06-30T19:34:36.688Z",
     "source": "remote"
   }
 ]
