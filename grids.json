@@ -282,7 +282,8 @@
           },
           {
             "channelId": "e",
-            "number": "36.1"
+            "number": "36.1",
+            "channelName": "E!"
           },
           {
             "channelId": "history",
@@ -476,7 +477,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:14:14.029Z",
+    "updatedAt": "2026-06-30T18:14:20.459Z",
     "source": "remote"
   }
 ]
