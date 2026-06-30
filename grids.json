@@ -124,7 +124,8 @@
           },
           {
             "channelId": "deportv",
-            "number": "27.3"
+            "number": "27.3",
+            "channelName": "DeporTV"
           },
           {
             "channelId": "tyc-sports",
@@ -446,7 +447,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:09:55.080Z",
+    "updatedAt": "2026-06-30T18:10:05.062Z",
     "source": "remote"
   }
 ]
