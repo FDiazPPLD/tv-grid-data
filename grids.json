@@ -207,7 +207,8 @@
           },
           {
             "channelId": "disney-channel",
-            "number": "32.2"
+            "number": "32.2",
+            "channelName": "Disney Channel"
           },
           {
             "channelId": "zookids",
@@ -461,7 +462,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:12:16.796Z",
+    "updatedAt": "2026-06-30T18:12:24.754Z",
     "source": "remote"
   }
 ]
