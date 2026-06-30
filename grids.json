@@ -144,7 +144,8 @@
           },
           {
             "channelId": "fox-sports-2",
-            "number": "28.2"
+            "number": "28.2",
+            "channelName": "Fox Sports 2"
           },
           {
             "channelId": "fox-sports-3",
@@ -450,7 +451,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:10:27.269Z",
+    "updatedAt": "2026-06-30T18:10:38.078Z",
     "source": "remote"
   }
 ]
