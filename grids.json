@@ -267,7 +267,8 @@
           },
           {
             "channelId": "h-h",
-            "number": "35.1"
+            "number": "35.1",
+            "channelName": "h&h"
           },
           {
             "channelId": "el-gourmet",
@@ -473,7 +474,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:13:45.165Z",
+    "updatedAt": "2026-06-30T18:13:52.781Z",
     "source": "remote"
   }
 ]
