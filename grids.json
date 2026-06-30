@@ -202,7 +202,8 @@
           },
           {
             "channelId": "paka-paka",
-            "number": "32.1"
+            "number": "32.1",
+            "channelName": "Paka Paka"
           },
           {
             "channelId": "disney-channel",
@@ -460,7 +461,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:12:10.593Z",
+    "updatedAt": "2026-06-30T18:12:16.796Z",
     "source": "remote"
   }
 ]
