@@ -416,7 +416,8 @@
           },
           {
             "channelId": "tnt-series",
-            "number": "45.2"
+            "number": "45.2",
+            "channelName": "TNT Series"
           },
           {
             "channelId": "axn",
@@ -502,7 +503,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:17:37.000Z",
+    "updatedAt": "2026-06-30T18:17:45.141Z",
     "source": "remote"
   }
 ]
