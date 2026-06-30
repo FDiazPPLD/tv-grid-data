@@ -272,7 +272,8 @@
           },
           {
             "channelId": "el-gourmet",
-            "number": "35.2"
+            "number": "35.2",
+            "channelName": "El Gourmet"
           },
           {
             "channelId": "amc-series",
@@ -474,7 +475,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:13:52.781Z",
+    "updatedAt": "2026-06-30T18:14:00.395Z",
     "source": "remote"
   }
 ]
