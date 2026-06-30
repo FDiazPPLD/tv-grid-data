@@ -362,7 +362,8 @@
           },
           {
             "channelId": "sony-movies",
-            "number": "41.4"
+            "number": "41.4",
+            "channelName": "Sony Movies"
           },
           {
             "channelId": "cinemax",
@@ -492,7 +493,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:16:30.616Z",
+    "updatedAt": "2026-06-30T18:16:37.578Z",
     "source": "remote"
   }
 ]
