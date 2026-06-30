@@ -59,7 +59,8 @@
           },
           {
             "channelId": "cronica",
-            "number": "24.2"
+            "number": "24.2",
+            "channelName": "Cronica"
           },
           {
             "channelId": "canal-26",
@@ -434,7 +435,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:08:23.583Z",
+    "updatedAt": "2026-06-30T18:08:29.614Z",
     "source": "remote"
   }
 ]
