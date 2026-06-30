@@ -287,7 +287,8 @@
           },
           {
             "channelId": "history",
-            "number": "36.2"
+            "number": "36.2",
+            "channelName": "History"
           },
           {
             "channelId": "animal-planet",
@@ -477,7 +478,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:14:20.459Z",
+    "updatedAt": "2026-06-30T18:14:26.612Z",
     "source": "remote"
   }
 ]
