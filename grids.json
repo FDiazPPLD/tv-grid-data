@@ -347,7 +347,8 @@
           },
           {
             "channelId": "canal-a",
-            "number": "41.1"
+            "number": "41.1",
+            "channelName": "Canal a"
           },
           {
             "channelId": "film-arts",
@@ -489,7 +490,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:15:49.539Z",
+    "updatedAt": "2026-06-30T18:15:59.628Z",
     "source": "remote"
   }
 ]
