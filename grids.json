@@ -431,7 +431,8 @@
           },
           {
             "channelId": "warner-bros",
-            "number": "46.2"
+            "number": "46.2",
+            "channelName": "Warner Bros"
           },
           {
             "channelId": "telemundo",
@@ -505,7 +506,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:18:01.281Z",
+    "updatedAt": "2026-06-30T18:18:12.665Z",
     "source": "remote"
   }
 ]
