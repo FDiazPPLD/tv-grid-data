@@ -306,7 +306,8 @@
           },
           {
             "channelId": "history-2",
-            "number": "38.2"
+            "number": "38.2",
+            "channelName": "History 2"
           },
           {
             "channelId": "national-geographic",
@@ -480,7 +481,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:14:42.474Z",
+    "updatedAt": "2026-06-30T18:14:49.448Z",
     "source": "remote"
   }
 ]
