@@ -367,7 +367,8 @@
           },
           {
             "channelId": "cinemax",
-            "number": "42.1"
+            "number": "42.1",
+            "channelName": "Cinemax"
           },
           {
             "channelId": "golden-edge",
@@ -493,7 +494,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:16:37.578Z",
+    "updatedAt": "2026-06-30T18:16:42.788Z",
     "source": "remote"
   }
 ]
