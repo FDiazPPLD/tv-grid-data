@@ -436,7 +436,8 @@
           },
           {
             "channelId": "telemundo",
-            "number": "46.3"
+            "number": "46.3",
+            "channelName": "Telemundo"
           },
           {
             "channelId": "comedy-central",
@@ -506,7 +507,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:18:12.665Z",
+    "updatedAt": "2026-06-30T18:18:25.199Z",
     "source": "remote"
   }
 ]
