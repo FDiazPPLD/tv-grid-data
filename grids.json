@@ -44,7 +44,8 @@
           },
           {
             "channelId": "tn",
-            "number": "23.2"
+            "number": "23.2",
+            "channelName": "TN"
           },
           {
             "channelId": "a24",
@@ -431,7 +432,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:07:19.301Z",
+    "updatedAt": "2026-06-30T18:08:08.854Z",
     "source": "remote"
   }
 ]
