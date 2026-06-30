@@ -79,7 +79,8 @@
           },
           {
             "channelId": "el-nueve",
-            "number": "25.2"
+            "number": "25.2",
+            "channelName": "El Nueve"
           },
           {
             "channelId": "telefe",
@@ -437,7 +438,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:08:43.573Z",
+    "updatedAt": "2026-06-30T18:08:50.478Z",
     "source": "remote"
   }
 ]
