@@ -426,7 +426,8 @@
           },
           {
             "channelId": "sony-channel",
-            "number": "46.1"
+            "number": "46.1",
+            "channelName": "Sony Channel"
           },
           {
             "channelId": "warner-bros",
@@ -504,7 +505,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:17:50.655Z",
+    "updatedAt": "2026-06-30T18:18:01.281Z",
     "source": "remote"
   }
 ]
