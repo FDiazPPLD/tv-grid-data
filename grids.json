@@ -175,7 +175,7 @@
           {
             "channelId": "am-sports",
             "number": "30.2",
-            "channelName": "Am Sports"
+            "channelName": "AM Sports"
           },
           {
             "channelId": "garage-tv",
@@ -457,7 +457,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:11:23.616Z",
+    "updatedAt": "2026-06-30T18:11:30.910Z",
     "source": "remote"
   }
 ]
