@@ -222,7 +222,8 @@
           },
           {
             "channelId": "cartoon-network",
-            "number": "33.1"
+            "number": "33.1",
+            "channelName": "Cartoon Network"
           },
           {
             "channelId": "discovery-kids",
@@ -464,7 +465,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:12:38.759Z",
+    "updatedAt": "2026-06-30T18:12:46.381Z",
     "source": "remote"
   }
 ]
