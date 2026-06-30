@@ -94,7 +94,8 @@
           },
           {
             "channelId": "ln",
-            "number": "26.2"
+            "number": "26.2",
+            "channelName": "LN+"
           },
           {
             "channelId": "metro",
@@ -440,7 +441,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:09:04.112Z",
+    "updatedAt": "2026-06-30T18:09:11.136Z",
     "source": "remote"
   }
 ]
