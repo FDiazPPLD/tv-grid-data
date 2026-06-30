@@ -164,7 +164,8 @@
           },
           {
             "channelId": "espn-3",
-            "number": "29.3"
+            "number": "29.3",
+            "channelName": "Espn 3"
           },
           {
             "channelId": "espn-4",
@@ -454,7 +455,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:10:59.624Z",
+    "updatedAt": "2026-06-30T18:11:07.692Z",
     "source": "remote"
   }
 ]
