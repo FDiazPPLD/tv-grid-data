@@ -247,7 +247,8 @@
           },
           {
             "channelId": "cartoonito",
-            "number": "34.2"
+            "number": "34.2",
+            "channelName": "Cartoonito"
           },
           {
             "channelId": "tooncast",
@@ -469,7 +470,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:13:21.509Z",
+    "updatedAt": "2026-06-30T18:13:26.573Z",
     "source": "remote"
   }
 ]
