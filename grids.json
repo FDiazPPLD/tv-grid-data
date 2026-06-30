@@ -23,9 +23,9 @@
             "channelName": "UniTEVE"
           },
           {
-            "channelId": "telediario",
+            "channelId": "telediarioa",
             "number": "21.3",
-            "channelName": "Telediario"
+            "channelName": "Telediarioa"
           },
           {
             "channelId": "telefe-cordoba",
@@ -508,7 +508,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-06-30T18:18:47.829Z",
+    "updatedAt": "2026-06-30T18:48:43.875Z",
     "source": "remote"
   }
 ]
