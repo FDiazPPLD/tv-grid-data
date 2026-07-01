@@ -309,7 +309,7 @@
           },
           {
             "channelId": "b39cb919-6c32-4dfc-81b9-1d2364072e4d",
-            "channelName": "National Geographic",
+            "channelName": "Nat Geo",
             "number": "38.3"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:42:41.070Z",
+    "updatedAt": "2026-07-01T14:43:25.235Z",
     "source": "remote"
   }
 ]
