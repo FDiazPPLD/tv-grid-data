@@ -434,7 +434,7 @@
           },
           {
             "channelId": "df05a756-9a64-41b4-a2ed-779aae42988a",
-            "channelName": "Warner Bros",
+            "channelName": "Warner",
             "number": "46.2"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:44:24.651Z",
+    "updatedAt": "2026-07-01T14:44:42.218Z",
     "source": "remote"
   }
 ]
