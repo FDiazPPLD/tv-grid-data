@@ -6,7 +6,7 @@
     "channelBackgroundColor": "#e0e0e0",
     "pageBackgroundColor": "#ffffff",
     "separatorColor": "#2e7d32",
-    "showChannelNames": false,
+    "showChannelNames": true,
     "packs": [
       {
         "id": "cf4c4de2-b1d7-4aed-9d36-513112635893",
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T16:36:04.601Z",
+    "updatedAt": "2026-07-01T16:36:58.600Z",
     "source": "remote"
   }
 ]
