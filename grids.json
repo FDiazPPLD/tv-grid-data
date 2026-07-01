@@ -504,7 +504,7 @@
           },
           {
             "channelId": "ce8abd57-6a0d-4955-bfd9-fea840a59f47",
-            "channelName": "Rai Italia",
+            "channelName": "Rai",
             "number": "51.1"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:46:15.983Z",
+    "updatedAt": "2026-07-01T14:46:27.969Z",
     "source": "remote"
   }
 ]
