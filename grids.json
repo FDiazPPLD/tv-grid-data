@@ -10,7 +10,7 @@
     "packs": [
       {
         "id": "cf4c4de2-b1d7-4aed-9d36-513112635893",
-        "subtitle": "asdasdsa",
+        "subtitle": "",
         "channels": [
           {
             "channelId": "945f4b14-1b1b-4cde-b27e-e4cff1f04917",
@@ -521,34 +521,12 @@
             "channelId": "f6d158c6-5176-46c9-a910-9b7021a8848a",
             "channelName": "Canal Luz",
             "number": "51.4"
-          },
-          {
-            "channelId": "cf83a351-6f17-46e3-ae47-9bceace53cf3",
-            "channelName": "Venus",
-            "number": "99"
           }
         ]
-      },
-      {
-        "id": "a6aaac9e-dfcf-40ab-9c8f-97db31b9040d",
-        "subtitle": "Pack 2",
-        "channels": [
-          {
-            "channelId": "f1fb3e70-11c9-44f7-8ade-2518f9b8549b",
-            "channelName": "HBO Xtreme",
-            "number": "22"
-          },
-          {
-            "channelId": "9527c773-8022-40dc-b055-eaa05c7acaf5",
-            "channelName": "Penthouse",
-            "number": "33"
-          }
-        ],
-        "forcePageBreakBefore": true
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T16:20:37.379Z",
+    "updatedAt": "2026-07-01T16:36:01.480Z",
     "source": "remote"
   }
 ]
