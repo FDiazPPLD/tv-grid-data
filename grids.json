@@ -104,7 +104,7 @@
           },
           {
             "channelId": "9139026e-ab97-40dc-acfe-48590923a64f",
-            "channelName": "Ciudad Magazine",
+            "channelName": "Magazine",
             "number": "26.4"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:40:04.508Z",
+    "updatedAt": "2026-07-01T14:40:51.838Z",
     "source": "remote"
   }
 ]
