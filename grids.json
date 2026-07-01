@@ -494,7 +494,7 @@
           },
           {
             "channelId": "72eb54a5-6f25-4dc8-9da2-1102e68c0d95",
-            "channelName": "CNN Español",
+            "channelName": "CNNe",
             "number": "50.2"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:45:32.735Z",
+    "updatedAt": "2026-07-01T14:45:59.706Z",
     "source": "remote"
   }
 ]
