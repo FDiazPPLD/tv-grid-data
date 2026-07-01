@@ -499,7 +499,7 @@
           },
           {
             "channelId": "7a955524-b332-4b4e-9345-2dd4ae090865",
-            "channelName": "tve",
+            "channelName": "TVE",
             "number": "50.3"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:45:59.706Z",
+    "updatedAt": "2026-07-01T14:46:15.983Z",
     "source": "remote"
   }
 ]
