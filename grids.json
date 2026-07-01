@@ -429,7 +429,7 @@
           },
           {
             "channelId": "8a89624f-7ca3-49b7-9c2d-727917dd4afb",
-            "channelName": "Sony Channel",
+            "channelName": "Sony",
             "number": "46.1"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:44:42.218Z",
+    "updatedAt": "2026-07-01T14:44:50.380Z",
     "source": "remote"
   }
 ]
