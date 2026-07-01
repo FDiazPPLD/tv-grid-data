@@ -528,10 +528,26 @@
             "number": "99"
           }
         ]
+      },
+      {
+        "id": "a6aaac9e-dfcf-40ab-9c8f-97db31b9040d",
+        "subtitle": "Pack 2",
+        "channels": [
+          {
+            "channelId": "f1fb3e70-11c9-44f7-8ade-2518f9b8549b",
+            "channelName": "HBO Xtreme",
+            "number": "22"
+          },
+          {
+            "channelId": "9527c773-8022-40dc-b055-eaa05c7acaf5",
+            "channelName": "Penthouse",
+            "number": "33"
+          }
+        ]
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T15:47:37.434Z",
+    "updatedAt": "2026-07-01T16:19:26.423Z",
     "source": "remote"
   }
 ]
