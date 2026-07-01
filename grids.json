@@ -404,7 +404,7 @@
           },
           {
             "channelId": "cad4f8ef-d09a-49a4-9d8a-617e462d5e13",
-            "channelName": "Universal TV",
+            "channelName": "Universal Channel",
             "number": "44.2"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:43:55.524Z",
+    "updatedAt": "2026-07-01T14:44:24.651Z",
     "source": "remote"
   }
 ]
