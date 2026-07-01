@@ -174,7 +174,7 @@
           },
           {
             "channelId": "59ce471c-f6ff-493c-8dbe-4745b969df2a",
-            "channelName": "America Sports",
+            "channelName": "AM Sports",
             "number": "30.2"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:41:08.323Z",
+    "updatedAt": "2026-07-01T14:41:33.307Z",
     "source": "remote"
   }
 ]
