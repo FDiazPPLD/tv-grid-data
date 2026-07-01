@@ -469,7 +469,7 @@
           },
           {
             "channelId": "7b2799a9-bab3-4395-a8cb-2cd8181ff9a5",
-            "channelName": "h tv",
+            "channelName": "HTV",
             "number": "48.4"
           },
           {
@@ -526,7 +526,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T14:45:14.783Z",
+    "updatedAt": "2026-07-01T14:45:32.735Z",
     "source": "remote"
   }
 ]
