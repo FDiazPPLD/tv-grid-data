@@ -521,12 +521,17 @@
             "channelId": "f6d158c6-5176-46c9-a910-9b7021a8848a",
             "channelName": "Canal Luz",
             "number": "51.4"
+          },
+          {
+            "channelId": "cf83a351-6f17-46e3-ae47-9bceace53cf3",
+            "channelName": "Venus",
+            "number": "99"
           }
         ]
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-01T15:19:46.506Z",
+    "updatedAt": "2026-07-01T15:22:01.407Z",
     "source": "remote"
   }
 ]
