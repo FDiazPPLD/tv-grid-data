@@ -872,5 +872,150 @@
     "createdAt": "",
     "updatedAt": "2026-07-06T14:11:52.467Z",
     "source": "remote"
+  },
+  {
+    "id": "36744ec6-aac6-4705-b2be-e21ea6957c94",
+    "name": "DVB-C",
+    "headerColor": "#222222",
+    "channelBackgroundColor": "#e0e0e0",
+    "pageBackgroundColor": "#ffffff",
+    "separatorColor": "#2e7d32",
+    "showChannelNames": false,
+    "channelNameBackgroundColor": "#1f1f1f",
+    "channelNameColor": "#ffffff",
+    "packs": [
+      {
+        "id": "e2c807e8-74f5-42b7-8323-68d76eb830a3",
+        "subtitle": "Basico",
+        "channels": []
+      },
+      {
+        "id": "6113f5a7-bd98-40a1-aa6b-a1af1269c735",
+        "subtitle": "Plus",
+        "channels": []
+      },
+      {
+        "id": "4c543ee3-22a4-48b8-bc70-a0e346e84ed7",
+        "subtitle": "Futbol",
+        "channels": [
+          {
+            "channelId": "96520186-1511-4023-a159-d83207af2b11",
+            "channelName": "ESPN Premium",
+            "number": "115"
+          },
+          {
+            "channelId": "592e6eb1-b313-4a33-9ef1-e64a2dbafb53",
+            "channelName": "TNT Sports",
+            "number": "116"
+          }
+        ]
+      },
+      {
+        "id": "06b070e4-5ca3-4d17-b50a-bfebf9084db1",
+        "subtitle": "Universal",
+        "channels": [
+          {
+            "channelId": "f18ff3c8-98b9-4a2e-af60-951f1355eb6c",
+            "channelName": "Universal Premiere",
+            "number": "800"
+          },
+          {
+            "channelId": "09a4fd79-b877-481c-8c18-364e3b890986",
+            "channelName": "Universal Cinema",
+            "number": "801"
+          },
+          {
+            "channelId": "d26430fa-f720-4bcd-876b-cc73c164f5d9",
+            "channelName": "Universal Comedy",
+            "number": "802"
+          },
+          {
+            "channelId": "9b7794ef-dc79-477b-8a85-f79e8af780fb",
+            "channelName": "Universal Crime",
+            "number": "803"
+          },
+          {
+            "channelId": "b6e5c187-657b-4ee2-b534-c74f3d9b75c8",
+            "channelName": "Universal Reality",
+            "number": "804"
+          }
+        ]
+      },
+      {
+        "id": "1495b67e-e1f3-4f4f-bda2-9fd760996950",
+        "subtitle": "HBO",
+        "channels": [
+          {
+            "channelId": "fa944bb3-0043-4548-984c-3a995cbfe31b",
+            "channelName": "HBO",
+            "number": "820"
+          },
+          {
+            "channelId": "fce73fee-9351-48ef-92d2-568699386724",
+            "channelName": "HBO Family",
+            "number": "821"
+          },
+          {
+            "channelId": "47283633-1eec-48d6-941a-75457037f401",
+            "channelName": "HBO 2",
+            "number": "822"
+          },
+          {
+            "channelId": "0cfd8429-c02b-4030-8608-d2facc5bb809",
+            "channelName": "HBO Plus",
+            "number": "823"
+          },
+          {
+            "channelId": "711211c8-a378-45d6-8904-1a13de1a0d74",
+            "channelName": "HBO Signature",
+            "number": "824"
+          },
+          {
+            "channelId": "bad5b3ab-0a14-422c-9962-569e18b925cc",
+            "channelName": "HBO Mundi",
+            "number": "825"
+          },
+          {
+            "channelId": "f1fb3e70-11c9-44f7-8ade-2518f9b8549b",
+            "channelName": "HBO Xtreme",
+            "number": "826"
+          },
+          {
+            "channelId": "ff93f7a3-63d9-4d03-9e58-d8309dd99158",
+            "channelName": "HBO Pop",
+            "number": "827"
+          }
+        ]
+      },
+      {
+        "id": "5468d26a-7f0b-46bc-b443-d5a77af81926",
+        "subtitle": "Adultos",
+        "channels": [
+          {
+            "channelId": "2dc1fde6-60f9-4b2b-a8c5-9223987f4291",
+            "channelName": "Playboy",
+            "number": "900"
+          },
+          {
+            "channelId": "cf83a351-6f17-46e3-ae47-9bceace53cf3",
+            "channelName": "Venus",
+            "number": "901"
+          },
+          {
+            "channelId": "91731e32-81c5-44c8-90e3-284e42f3e6a7",
+            "channelName": "SeXtreme",
+            "number": "902"
+          },
+          {
+            "channelId": "9527c773-8022-40dc-b055-eaa05c7acaf5",
+            "channelName": "Penthouse",
+            "number": "903"
+          }
+        ]
+      }
+    ],
+    "createdAt": "",
+    "updatedAt": "2026-07-06T14:35:05.986Z",
+    "source": "remote"
   }
 ]
