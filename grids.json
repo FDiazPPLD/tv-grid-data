@@ -887,7 +887,188 @@
       {
         "id": "e2c807e8-74f5-42b7-8323-68d76eb830a3",
         "subtitle": "Basico",
-        "channels": []
+        "channels": [
+          {
+            "channelId": "945f4b14-1b1b-4cde-b27e-e4cff1f04917",
+            "channelName": "C20",
+            "number": "2"
+          },
+          {
+            "channelId": "9361abc8-3de9-47c8-84ea-35f89a685799",
+            "channelName": "Uniteve",
+            "number": "3"
+          },
+          {
+            "channelId": "e42da63c-3d9d-420a-b95f-2c23f2eff5ff",
+            "channelName": "Telediario",
+            "number": "4"
+          },
+          {
+            "channelId": "25871cab-9912-4e75-994b-113c0d4a4a37",
+            "channelName": "Telefe Cordoba",
+            "number": "5"
+          },
+          {
+            "channelId": "a766f359-a9c3-4156-813d-c65daea66576",
+            "channelName": "El Doce",
+            "number": "6"
+          },
+          {
+            "channelId": "77253586-7d39-4d0b-8950-14284a067296",
+            "channelName": "Canal 10",
+            "number": "7"
+          },
+          {
+            "channelId": "cfdf6538-6484-491b-918e-1894395fb3fb",
+            "channelName": "TN",
+            "number": "50"
+          },
+          {
+            "channelId": "2e494bb6-0997-4d27-b9af-c831f2ee553f",
+            "channelName": "A24",
+            "number": "51"
+          },
+          {
+            "channelId": "d245f32c-ed4e-44f6-bb95-715314902c12",
+            "channelName": "C5N",
+            "number": "52"
+          },
+          {
+            "channelId": "1a9f8c92-a6fb-4ee4-aacd-acf0923cc7ed",
+            "channelName": "Cronica",
+            "number": "53"
+          },
+          {
+            "channelId": "cf68fdd6-6105-4828-b0ce-e6d9a99b7c0e",
+            "channelName": "Canal 26",
+            "number": "54"
+          },
+          {
+            "channelId": "c5f8e93f-aeb3-4c14-bb36-d235b81824ed",
+            "channelName": "TV Publica",
+            "number": "55"
+          },
+          {
+            "channelId": "18c9e472-a05d-4a80-8cb9-355088088ba0",
+            "channelName": "America",
+            "number": "56"
+          },
+          {
+            "channelId": "f471390c-a2b1-4732-909a-519be4ada307",
+            "channelName": "El Nueve",
+            "number": "57"
+          },
+          {
+            "channelId": "3c73a0a9-5e0e-4e21-91d8-fc8e20890255",
+            "channelName": "Telefe",
+            "number": "58"
+          },
+          {
+            "channelId": "029e92d3-b546-49de-8a2a-cbbd963c3a75",
+            "channelName": "El Trece",
+            "number": "59"
+          },
+          {
+            "channelId": "e7a09a93-41de-4276-b659-63ce89e4b831",
+            "channelName": "LN+",
+            "number": "60"
+          },
+          {
+            "channelId": "dc5a259e-f2a4-4178-9b87-ceb9abc6cecd",
+            "channelName": "Metro",
+            "number": "61"
+          },
+          {
+            "channelId": "9139026e-ab97-40dc-acfe-48590923a64f",
+            "channelName": "Magazine",
+            "number": "62"
+          },
+          {
+            "channelId": "9d04dcb6-4d7b-4493-9376-eeac11cbbfa5",
+            "channelName": "Encuentro",
+            "number": "63"
+          },
+          {
+            "channelId": "f31835ac-3cf8-4c03-890f-edfc14f88c50",
+            "channelName": "Canal Rural",
+            "number": "64"
+          },
+          {
+            "channelId": "76cabaf2-ad72-4d5e-b986-092098251885",
+            "channelName": "Argentinisima",
+            "number": "65"
+          },
+          {
+            "channelId": "5244bcfd-7e77-413a-8bba-64e3187f8548",
+            "channelName": "DeporTV",
+            "number": "100"
+          },
+          {
+            "channelId": "a48e74b2-6a56-41e8-9e1c-24df2ffc3117",
+            "channelName": "TyC Sports",
+            "number": "101"
+          },
+          {
+            "channelId": "772d0e2c-303c-44af-ab7d-dfd2ed09c94c",
+            "channelName": "Fox Sports",
+            "number": "103"
+          },
+          {
+            "channelId": "c09370ad-fbf2-4275-948e-79669c397d4d",
+            "channelName": "Fox Sports 2",
+            "number": "104"
+          },
+          {
+            "channelId": "5ad65861-4ae1-443f-915e-406566662270",
+            "channelName": "Fox Sports 3",
+            "number": "105"
+          },
+          {
+            "channelId": "25c11fb2-8f5c-4891-a15b-541905d1432d",
+            "channelName": "ESPN",
+            "number": "105"
+          },
+          {
+            "channelId": "58881b07-a931-4f89-b5af-78b08a78a30b",
+            "channelName": "ESPN 2",
+            "number": "106"
+          },
+          {
+            "channelId": "7baf9215-8c64-404c-9a62-01f1845b4e76",
+            "channelName": "ESPN 3",
+            "number": "107"
+          },
+          {
+            "channelId": "f7d0f8c1-60ea-48d3-946e-2b9e80183f03",
+            "channelName": "ESPN 4",
+            "number": "108"
+          },
+          {
+            "channelId": "59ce471c-f6ff-493c-8dbe-4745b969df2a",
+            "channelName": "AM Sports",
+            "number": "109"
+          },
+          {
+            "channelId": "68d7c001-ed85-4e00-9052-52eea01d1a4b",
+            "channelName": "Garage TV",
+            "number": "110"
+          },
+          {
+            "channelId": "3fbd6c5a-5d92-4eab-a8e6-03786ace8e9e",
+            "channelName": "DSports",
+            "number": "120"
+          },
+          {
+            "channelId": "245bf9c1-b134-437a-a049-d15e5c808570",
+            "channelName": "DSports 2",
+            "number": "121"
+          },
+          {
+            "channelId": "133632a5-bac3-4b5d-b329-fc14b167b240",
+            "channelName": "Paka Paka",
+            "number": "150"
+          }
+        ]
       },
       {
         "id": "6113f5a7-bd98-40a1-aa6b-a1af1269c735",
@@ -1015,7 +1196,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-06T14:35:05.986Z",
+    "updatedAt": "2026-07-07T11:53:36.054Z",
     "source": "remote"
   },
   {
