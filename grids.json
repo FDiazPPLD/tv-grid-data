@@ -2376,6 +2376,11 @@
             "number": "337"
           },
           {
+            "channelId": "30f486ae-e29b-4e12-b6dd-de626824af09",
+            "channelName": "Golden Edge",
+            "number": "338"
+          },
+          {
             "channelId": "2903a751-52f0-4d1b-895f-57cb8be76cf1",
             "channelName": "CM",
             "number": "350"
@@ -2386,6 +2391,11 @@
             "number": "352"
           },
           {
+            "channelId": "c29a77a8-c682-4c1d-8be1-3e49d5b2223b",
+            "channelName": "TeleHit Musica",
+            "number": "353"
+          },
+          {
             "channelId": "8afd701a-4212-4a4a-8c5c-7d5bba68830e",
             "channelName": "Quiero",
             "number": "354"
@@ -2394,6 +2404,16 @@
             "channelId": "9781fc3e-619a-4008-bd95-2ff567ea358b",
             "channelName": "MTV",
             "number": "355"
+          },
+          {
+            "channelId": "6ad11417-2655-4bc9-87bb-d9365bed3023",
+            "channelName": "Concert",
+            "number": "356"
+          },
+          {
+            "channelId": "d9aa36b6-e3d3-4c89-83a0-138b45318751",
+            "channelName": "TeleHit Musica Plus",
+            "number": "357"
           },
           {
             "channelId": "89b130ea-626c-4459-af44-8cbc82daed26",
@@ -2416,9 +2436,54 @@
             "number": "403"
           },
           {
+            "channelId": "1530ffa8-c936-4904-96ec-9c6fbdba3ac5",
+            "channelName": "24h",
+            "number": "404"
+          },
+          {
+            "channelId": "a1ac8c3d-849a-4e78-a2f4-5dee6c060b6d",
+            "channelName": "etb 1 on",
+            "number": "405"
+          },
+          {
+            "channelId": "e699d805-2b3b-4ea0-9002-71a68f7e6dde",
+            "channelName": "TV Chile",
+            "number": "406"
+          },
+          {
+            "channelId": "d87e6be8-9257-4a6f-813c-98ff297ec366",
+            "channelName": "DW",
+            "number": "407"
+          },
+          {
+            "channelId": "fb612493-b365-4ea8-b1a7-5ff6b74210db",
+            "channelName": "France 24",
+            "number": "408"
+          },
+          {
             "channelId": "ce8abd57-6a0d-4955-bfd9-fea840a59f47",
             "channelName": "Rai",
             "number": "409"
+          },
+          {
+            "channelId": "f9896506-fe0e-4987-9511-4b9fa245ca1e",
+            "channelName": "NHK",
+            "number": "410"
+          },
+          {
+            "channelId": "d0dea672-3298-4898-9683-c4bfe447e806",
+            "channelName": "HispanTV",
+            "number": "411"
+          },
+          {
+            "channelId": "d0885c3b-ba06-4394-a6a4-33355c816822",
+            "channelName": "CGTN",
+            "number": "412"
+          },
+          {
+            "channelId": "ce86fe79-7e33-41fb-93db-79c99c93c28f",
+            "channelName": "TV Galicia",
+            "number": "413"
           },
           {
             "channelId": "11afdca8-e321-4750-ae5a-104741780858",
@@ -2436,9 +2501,9 @@
             "number": "452"
           },
           {
-            "channelId": "30f486ae-e29b-4e12-b6dd-de626824af09",
-            "channelName": "Golden Edge",
-            "number": "781"
+            "channelId": "924449bf-571b-4f77-8f7a-60b7b383db64",
+            "channelName": "Enlace",
+            "number": "453"
           }
         ]
       },
@@ -2560,20 +2625,10 @@
             "number": "903"
           }
         ]
-      },
-      {
-        "id": "392bfb71-b287-4997-b36f-02ff963bc06d",
-        "subtitle": "Pack 6",
-        "channels": []
-      },
-      {
-        "id": "52cdf83c-cd1f-453e-b17d-c8c4111673fa",
-        "subtitle": "Pack 7",
-        "channels": []
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-07T15:50:58.696Z",
+    "updatedAt": "2026-07-07T16:02:29.285Z",
     "source": "remote"
   }
 ]
