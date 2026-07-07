@@ -1881,6 +1881,41 @@
             "number": "65"
           },
           {
+            "channelId": "aabc3e92-ddff-4aba-904c-a376d051548a",
+            "channelName": "RTS",
+            "number": "66"
+          },
+          {
+            "channelId": "b21c58e0-4f8b-4784-abf7-1d6068cab4a2",
+            "channelName": "Net TV",
+            "number": "66"
+          },
+          {
+            "channelId": "18379d99-b2e9-43e6-b863-c933f6dbb5be",
+            "channelName": "Tecnopolis",
+            "number": "67"
+          },
+          {
+            "channelId": "4280b6d7-44b9-46a6-a734-32eccce514ea",
+            "channelName": "Construir",
+            "number": "68"
+          },
+          {
+            "channelId": "4d81ea8c-5e40-4c38-8b7b-dd01aba6f85b",
+            "channelName": "Chacra TV",
+            "number": "69"
+          },
+          {
+            "channelId": "35c3f136-6bbb-4fa8-96ff-330247fc597d",
+            "channelName": "AM 1070",
+            "number": "70"
+          },
+          {
+            "channelId": "a4e91c69-1b35-416b-83df-7dfe82976e55",
+            "channelName": "DTV",
+            "number": "71"
+          },
+          {
             "channelId": "5244bcfd-7e77-413a-8bba-64e3187f8548",
             "channelName": "DeporTV",
             "number": "100"
@@ -1889,6 +1924,11 @@
             "channelId": "a48e74b2-6a56-41e8-9e1c-24df2ffc3117",
             "channelName": "TyC Sports",
             "number": "101"
+          },
+          {
+            "channelId": "070b7885-1cf2-4efe-b344-64ac7147c3d8",
+            "channelName": "TyC Sports 2",
+            "number": "102"
           },
           {
             "channelId": "772d0e2c-303c-44af-ab7d-dfd2ed09c94c",
@@ -1931,9 +1971,39 @@
             "number": "110"
           },
           {
+            "channelId": "66d0cbad-e9cd-4256-be90-bf37dbc885ad",
+            "channelName": "PX Sports",
+            "number": "111"
+          },
+          {
+            "channelId": "90d9ea38-38ca-46d6-abd9-845c004e3f6f",
+            "channelName": "Adrenalina",
+            "number": "112"
+          },
+          {
             "channelId": "68d7c001-ed85-4e00-9052-52eea01d1a4b",
             "channelName": "Garage TV",
             "number": "113"
+          },
+          {
+            "channelId": "d94b7cff-b5e6-4928-a024-1caf9419a980",
+            "channelName": "Discovery Turbo",
+            "number": "114"
+          },
+          {
+            "channelId": "5a872233-0575-4d14-ba0a-4a4dc81ab9cd",
+            "channelName": "Golf",
+            "number": "117"
+          },
+          {
+            "channelId": "46c9e272-1d21-472d-8219-0ab2c6b009b6",
+            "channelName": "Eventos",
+            "number": "118"
+          },
+          {
+            "channelId": "7ef2accd-5b15-4114-b743-dc0a1035936f",
+            "channelName": "Claro Sports",
+            "number": "119"
           },
           {
             "channelId": "3fbd6c5a-5d92-4eab-a8e6-03786ace8e9e",
@@ -1949,6 +2019,11 @@
             "channelId": "133632a5-bac3-4b5d-b329-fc14b167b240",
             "channelName": "Paka Paka",
             "number": "150"
+          },
+          {
+            "channelId": "1bc2f194-fdbc-46d4-8637-5716ca88b93a",
+            "channelName": "Clan",
+            "number": "151"
           },
           {
             "channelId": "71ebe33e-5d10-4ece-b56c-0a100819b680",
@@ -1996,14 +2071,19 @@
             "number": "164"
           },
           {
-            "channelId": "4f400a66-d99a-455d-aa66-b2cc0b05f403",
-            "channelName": "ZooKids",
-            "number": "165"
-          },
-          {
             "channelId": "2da0fcb1-7b3f-44ca-abd8-3849a69dd47f",
             "channelName": "BitMe",
             "number": "166"
+          },
+          {
+            "channelId": "8e8ecdf9-183f-4a75-a03c-17f4bb4cf75b",
+            "channelName": "Lifetime",
+            "number": "200"
+          },
+          {
+            "channelId": "5ab90b08-3317-4d87-a108-71b1b6ead866",
+            "channelName": "Sun Channel",
+            "number": "201"
           },
           {
             "channelId": "312ce4aa-b1c2-4068-bc59-47c79af58df6",
@@ -2031,9 +2111,39 @@
             "number": "206"
           },
           {
+            "channelId": "76332fd1-be5a-419d-a251-f0a8c18dab1a",
+            "channelName": "Univision",
+            "number": "207"
+          },
+          {
+            "channelId": "4cdfb05b-319a-4543-8c8c-03f91b46bf74",
+            "channelName": "AZ Clic",
+            "number": "208"
+          },
+          {
+            "channelId": "4c36cbfc-55fb-4656-8a77-42b23c8b0526",
+            "channelName": "Star Tve",
+            "number": "209"
+          },
+          {
+            "channelId": "14ec4055-0fff-4f13-ac56-f1914550ac54",
+            "channelName": "Euro Channel",
+            "number": "210"
+          },
+          {
+            "channelId": "a3bea8c1-7562-44ff-9421-51e303612dcc",
+            "channelName": "Canal Claro",
+            "number": "211"
+          },
+          {
             "channelId": "00b2277c-7191-42f9-947c-2d34a7369157",
             "channelName": "Telemundo",
             "number": "212"
+          },
+          {
+            "channelId": "e6357035-d544-4b06-b29a-dcfa9c2d8534",
+            "channelName": "Food Network",
+            "number": "213"
           },
           {
             "channelId": "72d605cb-8a2f-427a-ab85-336e75941a86",
@@ -2054,6 +2164,26 @@
             "channelId": "62a08850-4d0f-499b-842e-ca0768fc1000",
             "channelName": "Discovery",
             "number": "253"
+          },
+          {
+            "channelId": "e9510e16-67ca-4c25-91a2-f8beedbe880b",
+            "channelName": "HGTV",
+            "number": "254"
+          },
+          {
+            "channelId": "1b633e6a-3021-43d6-af47-6947713dd9e5",
+            "channelName": "Discovery Science",
+            "number": "255"
+          },
+          {
+            "channelId": "7532927e-04bd-4e89-a286-28a245356787",
+            "channelName": "Discovery Theater",
+            "number": "256"
+          },
+          {
+            "channelId": "e894b8cf-e029-4ca5-af4d-f29d063b0afd",
+            "channelName": "Discovery World",
+            "number": "257"
           },
           {
             "channelId": "b39cb919-6c32-4dfc-81b9-1d2364072e4d",
@@ -2091,6 +2221,11 @@
             "number": "304"
           },
           {
+            "channelId": "3e4f8028-210e-4640-bdfe-135e2d5ffc9a",
+            "channelName": "AZ Cinema",
+            "number": "305"
+          },
+          {
             "channelId": "5c4dc8ca-5d98-401d-a9ce-652f4d4109af",
             "channelName": "A&E",
             "number": "306"
@@ -2114,6 +2249,16 @@
             "channelId": "befff202-32c5-4e5a-a49a-86c72b4dd796",
             "channelName": "Sony Movies",
             "number": "310"
+          },
+          {
+            "channelId": "e4e6f31c-9463-4ecf-9856-b3baf377ea5e",
+            "channelName": "MultiPremier",
+            "number": "311"
+          },
+          {
+            "channelId": "97d26817-f07c-4df1-81c5-88e0d54736e4",
+            "channelName": "MC",
+            "number": "312"
           },
           {
             "channelId": "81a6125f-9da5-439c-830b-554d9f435ccc",
@@ -2151,8 +2296,8 @@
             "number": "319"
           },
           {
-            "channelId": "d6efe9c0-55f5-4292-a7b6-c75d43e50247",
-            "channelName": "Golden Plus",
+            "channelId": "bae792c8-68a7-472d-a4dc-be7c2d34c2ac",
+            "channelName": "USA",
             "number": "321"
           },
           {
@@ -2199,6 +2344,36 @@
             "channelId": "f676aac5-ef67-4d85-bdcc-16de45a04ff3",
             "channelName": "TLNovelas",
             "number": "331"
+          },
+          {
+            "channelId": "46347c1e-2d8b-4060-915b-7191d40d68dd",
+            "channelName": "AZ Corazon",
+            "number": "332"
+          },
+          {
+            "channelId": "06979cc2-9ca6-4c5d-9e97-6426b52bfb3d",
+            "channelName": "Azteca Internacional",
+            "number": "333"
+          },
+          {
+            "channelId": "62965a16-d7da-41da-b50d-e64aff348a70",
+            "channelName": "De Pelicula",
+            "number": "334"
+          },
+          {
+            "channelId": "84d0b681-7ec0-4103-b3e1-6c3a220cd8c0",
+            "channelName": "Distrito Comedia",
+            "number": "335"
+          },
+          {
+            "channelId": "d6efe9c0-55f5-4292-a7b6-c75d43e50247",
+            "channelName": "Golden Plus",
+            "number": "336"
+          },
+          {
+            "channelId": "fd966691-9b7b-464e-b0db-06e574be3a60",
+            "channelName": "Golden Premier",
+            "number": "337"
           },
           {
             "channelId": "2903a751-52f0-4d1b-895f-57cb8be76cf1",
@@ -2385,10 +2560,20 @@
             "number": "903"
           }
         ]
+      },
+      {
+        "id": "392bfb71-b287-4997-b36f-02ff963bc06d",
+        "subtitle": "Pack 6",
+        "channels": []
+      },
+      {
+        "id": "52cdf83c-cd1f-453e-b17d-c8c4111673fa",
+        "subtitle": "Pack 7",
+        "channels": []
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-07T14:50:58.693Z",
+    "updatedAt": "2026-07-07T15:50:58.696Z",
     "source": "remote"
   }
 ]
