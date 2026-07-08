@@ -1778,52 +1778,52 @@
           {
             "channelId": "4500eed3-0d38-492a-9868-173e64c6e12f",
             "channelName": "eltres TV",
-            "number": "8"
+            "number": "11"
           },
           {
             "channelId": "c3de2687-2a61-4f73-982b-4c2cd54dadae",
             "channelName": "Telefe Rosario",
-            "number": "9"
+            "number": "13"
           },
           {
             "channelId": "4b9fe78f-dab3-4176-86b6-e69c0e355ad9",
             "channelName": "TV Publica Pampeana",
-            "number": "10"
+            "number": "26"
           },
           {
             "channelId": "fb2a0134-654d-477d-b811-11a0d702c036",
             "channelName": "Canal 7",
-            "number": "11"
+            "number": "27"
           },
           {
             "channelId": "cfdf6538-6484-491b-918e-1894395fb3fb",
             "channelName": "TN",
-            "number": "50"
+            "number": "40"
           },
           {
             "channelId": "2e494bb6-0997-4d27-b9af-c831f2ee553f",
             "channelName": "A24",
-            "number": "51"
+            "number": "41"
           },
           {
             "channelId": "d245f32c-ed4e-44f6-bb95-715314902c12",
             "channelName": "C5N",
-            "number": "52"
+            "number": "42"
           },
           {
             "channelId": "1a9f8c92-a6fb-4ee4-aacd-acf0923cc7ed",
             "channelName": "Cronica",
-            "number": "53"
+            "number": "43"
           },
           {
             "channelId": "cf68fdd6-6105-4828-b0ce-e6d9a99b7c0e",
             "channelName": "Canal 26",
-            "number": "54"
+            "number": "44"
           },
           {
             "channelId": "65eb1946-eaa2-4773-b3d9-61725ecb9ab6",
             "channelName": "AR12",
-            "number": "54"
+            "number": "45"
           },
           {
             "channelId": "c5f8e93f-aeb3-4c14-bb36-d235b81824ed",
@@ -1883,37 +1883,37 @@
           {
             "channelId": "aabc3e92-ddff-4aba-904c-a376d051548a",
             "channelName": "RTS",
-            "number": "66"
+            "number": "67"
           },
           {
             "channelId": "b21c58e0-4f8b-4784-abf7-1d6068cab4a2",
             "channelName": "Net TV",
-            "number": "66"
+            "number": "69"
           },
           {
             "channelId": "18379d99-b2e9-43e6-b863-c933f6dbb5be",
             "channelName": "Tecnopolis",
-            "number": "67"
+            "number": "70"
           },
           {
             "channelId": "4280b6d7-44b9-46a6-a734-32eccce514ea",
             "channelName": "Construir",
-            "number": "68"
+            "number": "71"
           },
           {
             "channelId": "4d81ea8c-5e40-4c38-8b7b-dd01aba6f85b",
             "channelName": "Chacra TV",
-            "number": "69"
+            "number": "73"
           },
           {
             "channelId": "35c3f136-6bbb-4fa8-96ff-330247fc597d",
             "channelName": "AM 1070",
-            "number": "70"
+            "number": "74"
           },
           {
             "channelId": "a4e91c69-1b35-416b-83df-7dfe82976e55",
             "channelName": "DTV",
-            "number": "71"
+            "number": "75"
           },
           {
             "channelId": "5244bcfd-7e77-413a-8bba-64e3187f8548",
@@ -2298,7 +2298,7 @@
           {
             "channelId": "bae792c8-68a7-472d-a4dc-be7c2d34c2ac",
             "channelName": "USA",
-            "number": "321"
+            "number": "320"
           },
           {
             "channelId": "1173d657-0f11-4f63-bdb6-9d905afde01f",
@@ -2368,17 +2368,17 @@
           {
             "channelId": "d6efe9c0-55f5-4292-a7b6-c75d43e50247",
             "channelName": "Golden Plus",
-            "number": "336"
+            "number": "337"
           },
           {
             "channelId": "fd966691-9b7b-464e-b0db-06e574be3a60",
             "channelName": "Golden Premier",
-            "number": "337"
+            "number": "338"
           },
           {
             "channelId": "30f486ae-e29b-4e12-b6dd-de626824af09",
             "channelName": "Golden Edge",
-            "number": "338"
+            "number": "339"
           },
           {
             "channelId": "2903a751-52f0-4d1b-895f-57cb8be76cf1",
@@ -2408,12 +2408,12 @@
           {
             "channelId": "6ad11417-2655-4bc9-87bb-d9365bed3023",
             "channelName": "Concert",
-            "number": "356"
+            "number": "360"
           },
           {
             "channelId": "d9aa36b6-e3d3-4c89-83a0-138b45318751",
             "channelName": "TeleHit Musica Plus",
-            "number": "357"
+            "number": "362"
           },
           {
             "channelId": "89b130ea-626c-4459-af44-8cbc82daed26",
@@ -2468,22 +2468,22 @@
           {
             "channelId": "f9896506-fe0e-4987-9511-4b9fa245ca1e",
             "channelName": "NHK",
-            "number": "410"
+            "number": "411"
           },
           {
             "channelId": "d0dea672-3298-4898-9683-c4bfe447e806",
             "channelName": "HispanTV",
-            "number": "411"
+            "number": "412"
           },
           {
             "channelId": "d0885c3b-ba06-4394-a6a4-33355c816822",
             "channelName": "CGTN",
-            "number": "412"
+            "number": "413"
           },
           {
             "channelId": "ce86fe79-7e33-41fb-93db-79c99c93c28f",
             "channelName": "TV Galicia",
-            "number": "413"
+            "number": "414"
           },
           {
             "channelId": "11afdca8-e321-4750-ae5a-104741780858",
@@ -2628,7 +2628,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-07T16:02:29.285Z",
+    "updatedAt": "2026-07-08T16:06:04.931Z",
     "source": "remote"
   }
 ]
