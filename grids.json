@@ -1475,8 +1475,8 @@
             "number": "207"
           },
           {
-            "channelId": "4cdfb05b-319a-4543-8c8c-03f91b46bf74",
-            "channelName": "AZ Clic",
+            "channelId": "7bd57e3d-c07a-4b19-81e7-eee5b6d49c3a",
+            "channelName": "¡HOLA! TV",
             "number": "208"
           },
           {
@@ -1520,18 +1520,23 @@
             "number": "305"
           },
           {
+            "channelId": "68e1f365-91ea-443d-8ad0-c2f94c959079",
+            "channelName": "A3CINE",
+            "number": "305"
+          },
+          {
             "channelId": "bae792c8-68a7-472d-a4dc-be7c2d34c2ac",
             "channelName": "USA",
             "number": "320"
           },
           {
-            "channelId": "46347c1e-2d8b-4060-915b-7191d40d68dd",
-            "channelName": "AZ Corazon",
+            "channelId": "53332509-85d0-4815-a927-71160723323b",
+            "channelName": "Pasiones TV",
             "number": "332"
           },
           {
-            "channelId": "06979cc2-9ca6-4c5d-9e97-6426b52bfb3d",
-            "channelName": "Azteca Internacional",
+            "channelId": "d9c47e2e-52ac-45c8-9f82-d5cf1ee9b7bc",
+            "channelName": "A3SERIES",
             "number": "333"
           },
           {
@@ -1737,7 +1742,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-07T13:22:38.262Z",
+    "updatedAt": "2026-07-29T18:55:50.459Z",
     "source": "remote"
   },
   {
