@@ -1515,11 +1515,6 @@
             "number": "257"
           },
           {
-            "channelId": "3e4f8028-210e-4640-bdfe-135e2d5ffc9a",
-            "channelName": "AZ Cinema",
-            "number": "305"
-          },
-          {
             "channelId": "68e1f365-91ea-443d-8ad0-c2f94c959079",
             "channelName": "A3CINE",
             "number": "305"
@@ -1742,7 +1737,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-29T18:55:50.459Z",
+    "updatedAt": "2026-07-29T19:43:30.096Z",
     "source": "remote"
   },
   {
