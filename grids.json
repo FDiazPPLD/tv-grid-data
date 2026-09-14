@@ -2466,6 +2466,11 @@
             "number": "409"
           },
           {
+            "channelId": "aea665bf-fc85-419e-a9e5-9db06cf25ff0",
+            "channelName": "DNews",
+            "number": "410"
+          },
+          {
             "channelId": "f9896506-fe0e-4987-9511-4b9fa245ca1e",
             "channelName": "NHK",
             "number": "411"
@@ -2628,7 +2633,7 @@
       }
     ],
     "createdAt": "",
-    "updatedAt": "2026-07-24T18:51:22.780Z",
+    "updatedAt": "2026-09-14T14:52:18.139Z",
     "source": "remote"
   }
 ]
